@@ -6,5 +6,6 @@ git clone https://github.com/karishma1521success/swiggy-clone.git
 mv swiggy-clone/* .
 tail -100f /var/log/httpd/access_log
 
+hiiii
 
 
